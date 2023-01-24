@@ -1,4 +1,4 @@
-const data = [
+let QuestionsData = [
     {
       "category": "Entertainment%3A%20Video%20Games",
       "type": "multiple",
@@ -193,5 +193,5 @@ const data = [
     }
   ]
 
-export default data
+export default QuestionsData
  
